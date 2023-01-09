@@ -157,3 +157,46 @@ color: #B99BB6;
 	margin-top: 260px;
 }
 
+.block h1{
+	font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+
+
+color: #5F4D5D;
+
+}
+
+.block h3{
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 109% */
+
+
+color: #B0B0B0;
+
+}
+
+.images_block{
+	display: flex;
+	justify-content: center;
+	margin-top: 195px;
+	text-align: center;
+}
+
+.images{
+	padding: 25px;
+}
+
+.images-block{
+	display: flex;
+	justify-content: center;
+	margin-top: 55px;
+	text-align: center;
