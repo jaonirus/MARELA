@@ -1,0 +1,41 @@
+header{
+	  
+}
+
+.menu ul{
+	list-style: none;
+	display: flex;
+	gap: 20px;
+	position: absolute;
+	right: 140px;
+}
+
+.menu a{
+	text-decoration: none;
+	font-family: cardo;
+	color: #B08EAD;
+	font-size: 17px;
+	line-height: 23px;
+	display: flex;
+	padding: 40px;
+	
+}
+
+.logo{
+	padding-right: 530px;
+	padding-top: 20px;
+
+}
+
+.icon{
+	padding-top: 40px;
+}
+
+.main_img{
+	padding-top: 150px;
+	width: 100%;
+}
+
+.main_img img{
+	width: 100%;
+}
