@@ -1,5 +1,16 @@
-header{
-	  
+p{
+		font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+letter-spacing: 1.5px;
+text-transform: uppercase;
+
+color: #B99BB6;
+
 }
 
 .menu ul{
@@ -71,7 +82,7 @@ header{
 
 }
 
-.subtitle button{
+ button{
 	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 400;
@@ -97,3 +108,52 @@ header{
 .img_block img{
 	padding: 37px;
 }
+
+.title{
+	display: flex;
+	flex-direction: column;
+
+}
+
+.left_text{
+	margin-left: 175px;
+}
+
+.right_img{
+	position: absolute;
+	right: 111px;
+	margin-top: 120px;
+	
+}
+
+.left_text p{
+	margin-top: 150px;
+}
+
+ h2{
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 30px;
+	color: #5F4D5D;
+
+}
+
+.left_img{
+	margin-top: 180px;
+	position: absolute;
+	left: 135px;
+
+}
+
+.info{
+	display: flex;
+	flex-direction: column;
+	margin-left: 780px;
+}
+
+.info p{
+	margin-top: 260px;
+}
+
