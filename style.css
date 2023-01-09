@@ -39,3 +39,61 @@ header{
 .main_img img{
 	width: 100%;
 }
+
+.subtitle{
+	text-align: center;
+}
+
+.subtitle p{
+	color: #B99BB6;
+	font-size: 14px;
+	font-family: 'Roboto';
+
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 30px;
+	text-align: center;
+	letter-spacing: 1.5px;
+	text-transform: uppercase;
+	color: #B99BB6;
+}
+
+.subtitle h2{
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-size: 26px;
+	line-height: 38px;
+	text-align: center;
+	color: #5F4D5D;
+
+}
+
+.subtitle button{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 15px;
+	text-align: center;
+	letter-spacing: 1.5px;
+	text-transform: uppercase;
+	color: #B99BB6;
+    padding: 16px 29px;
+    background-color: transparent;
+    border-radius: 25px;
+   	border: 1px solid #B99BB6;
+    border-radius: 25px;
+}
+
+.img_block{
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+.img_block img{
+	padding: 37px;
+}
